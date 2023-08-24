@@ -1,5 +1,3 @@
-Types of AI Technology for Marketing
-===============================================================================
 
 AI technology has the potential to revolutionize marketing, enabling businesses to deliver personalized experiences and optimize campaigns for maximum impact. Here are some key types of AI technology for marketing.
 

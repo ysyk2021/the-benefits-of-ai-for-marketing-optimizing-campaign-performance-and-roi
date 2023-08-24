@@ -1,5 +1,3 @@
-Measuring Content Performance with AI
-==========================================================================
 
 Artificial intelligence (AI) technology is transforming content marketing by enabling businesses to measure the performance of their content in real-time and make data-driven decisions about content strategy. AI-powered content analytics tools can help businesses optimize their content marketing campaigns by analyzing customer data and identifying the types of content that resonate best with their target audience. Here are some ways businesses can leverage AI technology for measuring content performance.
 

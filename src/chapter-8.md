@@ -1,5 +1,3 @@
-The Future of AI-Powered Marketing
-==================================
 
 Artificial intelligence (AI) has already transformed the marketing landscape, enabling businesses to better understand and engage with their customers. However, as technology continues to evolve at a rapid pace, marketers must stay up-to-date on the latest trends and predictions for the future of AI-powered marketing.
 

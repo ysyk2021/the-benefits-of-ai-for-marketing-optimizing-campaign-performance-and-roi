@@ -1,5 +1,3 @@
-Using AI for Customer Segmentation
-==================================================================================
 
 One of the most powerful ways that businesses can use AI in marketing is to improve customer segmentation and targeting. By leveraging the vast amounts of data available today, AI algorithms can help businesses identify and target their ideal customers with unprecedented accuracy.
 

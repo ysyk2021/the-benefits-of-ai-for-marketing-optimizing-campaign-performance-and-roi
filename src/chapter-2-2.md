@@ -1,5 +1,3 @@
-Benefits and Limitations of Each Technology
-======================================================================================
 
 AI technology has the potential to transform marketing, but it's important to understand the benefits and limitations of each technology. Here are some key benefits and limitations of each type of AI technology for marketing.
 
