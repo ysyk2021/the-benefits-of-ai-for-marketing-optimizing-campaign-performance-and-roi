@@ -1,5 +1,4 @@
-Chapter 5: Using AI for Customer Segmentation
-=============================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore how AI can be utilized to enhance customer segmentation in marketing campaigns. We will discuss the benefits of leveraging AI technologies to analyze customer data, identify distinct segments, and optimize campaign performance and ROI.
 

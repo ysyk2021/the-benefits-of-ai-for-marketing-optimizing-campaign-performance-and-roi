@@ -1,5 +1,4 @@
-Chapter 9: Addressing Privacy and Security Concerns
-===================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will delve into the crucial topic of privacy and security concerns related to implementing AI technologies in marketing campaigns. We will explore the potential risks and challenges associated with data privacy, security breaches, and ethical considerations. Additionally, we will discuss strategies and best practices for mitigating these concerns.
 

@@ -1,5 +1,4 @@
-Chapter 10: Emerging Trends in AI Technology for Marketing
-==========================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the exciting emerging trends in AI technology that are shaping the future of marketing. These advancements have the potential to revolutionize how marketers optimize campaign performance, enhance customer experiences, and drive higher ROI.
 

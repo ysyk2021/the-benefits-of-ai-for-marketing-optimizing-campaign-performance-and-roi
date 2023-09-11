@@ -1,5 +1,4 @@
-Chapter 7: Measuring Content Performance with AI
-================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore how AI can be utilized to measure and analyze content performance in marketing campaigns. We will discuss the benefits of leveraging AI technologies to track and evaluate content engagement, conversions, customer sentiment, and other key metrics that contribute to optimizing campaign performance and ROI.
 

@@ -1,5 +1,4 @@
-Chapter 10: Overcoming Resistance to AI Adoption
-================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will address the common challenges and resistance faced when adopting AI technologies in marketing campaigns. We will explore strategies to overcome resistance, foster organizational buy-in, and maximize the benefits of AI adoption.
 

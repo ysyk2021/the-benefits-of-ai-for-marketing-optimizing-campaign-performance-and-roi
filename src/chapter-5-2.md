@@ -1,5 +1,4 @@
-Chapter 7: Using AI for Ad Copywriting and Design
-=================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the application of AI in ad copywriting and design. We will discuss how AI technologies can assist marketers in creating compelling and personalized ad content, optimizing design elements, and improving campaign performance.
 

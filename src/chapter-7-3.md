@@ -1,5 +1,4 @@
-Chapter 8: Mitigating the Risk of Over-reliance on AI Tools
-===========================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the potential risks and challenges associated with over-reliance on AI tools in marketing campaigns. We will discuss strategies to mitigate these risks and strike a balance between leveraging AI technologies and maintaining human judgment and creativity.
 

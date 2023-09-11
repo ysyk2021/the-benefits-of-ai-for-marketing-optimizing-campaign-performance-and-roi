@@ -1,5 +1,4 @@
-Chapter 6: Types of AI Technology for Marketing
-===============================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore various types of AI technologies that can be leveraged in marketing campaigns to optimize performance and ROI. We will discuss how these AI technologies work, their applications in marketing, and the benefits they bring to marketers.
 

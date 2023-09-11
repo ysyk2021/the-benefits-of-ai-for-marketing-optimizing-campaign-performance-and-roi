@@ -1,5 +1,4 @@
-Chapter 5: Using Chatbots and Virtual Assistants for Customer Service
-=====================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the role of chatbots and virtual assistants in enhancing customer service and support within the marketing context. We will discuss how these AI-powered technologies can revolutionize customer interactions, improve response times, and provide personalized assistance.
 

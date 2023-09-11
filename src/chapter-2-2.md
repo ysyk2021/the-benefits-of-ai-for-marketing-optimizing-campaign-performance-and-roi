@@ -1,5 +1,4 @@
-Chapter 8: Benefits and Limitations of Each Technology
-======================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will examine the benefits and limitations of each AI technology discussed in the previous chapters. Understanding these aspects will enable marketers to make informed decisions about utilizing these technologies in their marketing campaigns.
 

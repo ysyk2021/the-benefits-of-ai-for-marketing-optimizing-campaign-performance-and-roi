@@ -1,5 +1,4 @@
-Predictive Analytics for Audience Profiling
-===========================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 As marketing continues to become more data-driven, predictive analytics is becoming an increasingly valuable tool for profiling audiences. By analyzing data related to audience behavior and demographics, marketers can use predictive analytics to identify patterns and make informed decisions about who to target with their campaigns.
 

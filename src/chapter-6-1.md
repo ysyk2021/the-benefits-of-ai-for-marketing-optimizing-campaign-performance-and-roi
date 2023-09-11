@@ -1,5 +1,4 @@
-Chapter 3: Using AI for Content Ideation and Creation
-=====================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore how AI can be utilized to enhance content ideation and creation in marketing campaigns. We will discuss the benefits of leveraging AI technologies to generate creative ideas, automate content creation processes, and optimize campaign performance and ROI.
 

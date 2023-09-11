@@ -1,5 +1,4 @@
-Chapter 5: Optimizing Ad Targeting with AI
-==========================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the power of AI in optimizing ad targeting strategies. We will discuss how AI technologies can analyze vast amounts of data, identify valuable audience segments, and deliver personalized ads to maximize campaign performance and return on investment (ROI).
 
